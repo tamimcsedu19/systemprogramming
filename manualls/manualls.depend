@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1440920575 source:/home/tamim/oslab/manualls/main.cpp
+	<iostream>
+	<dirent.h>
+	<stdio.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<libgen.h>
+

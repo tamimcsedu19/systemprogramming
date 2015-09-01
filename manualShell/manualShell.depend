@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440920003 source:/home/tamim/oslab/manualShell/main.cpp
+	<iostream>
+	<string>
+	<unistd.h>
+	<bits/stdc++.h>
+
